@@ -2,8 +2,6 @@
 
 A content-based movie recommendation system that suggests similar movies based on genres, keywords, cast, crew, and overview. Built with Streamlit for the UI and powered by TMDb data.
 
-![Demo](https://via.placeholder.com/800x400?text=Demo+GIF+or+Screenshot+Here)
-
 ## Features
 - Recommends 5 movies similar to the user's selection.
 - Displays movie posters fetched from TMDb API.
